@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059593271357",
+    "firebase_url": "https://anil-photography-a60db.firebaseio.com",
+    "project_id": "anil-photography-a60db",
+    "storage_bucket": "anil-photography-a60db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059593271357:android:3eedeffe332ef780",
+        "android_client_info": {
+          "package_name": "anilphotographysite.wordpress.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059593271357-g0scbvt5oeqdeh3vfelfaubkfiab0pmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkvy7nDhFqOEPJpUkAUQeCs14-BPR40eA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
